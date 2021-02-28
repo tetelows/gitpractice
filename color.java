@@ -1,3 +1,4 @@
 public class color{
-    String test;
+    String test2:
+    String test3;
 }
